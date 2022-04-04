@@ -1,6 +1,4 @@
 ## Welcome to Ryan's Github Pages
-
-
 ### Calculator Highlights page
 
 In coding languages, Reverse Polish Notation is used to calculate math expressions by using Stacks and the Shunting-yard algorithm to parse through the inputed data
