@@ -12,7 +12,7 @@ private final Map OPERATORS = new HashMap<>(); { // Map<"token", precedence> OPE
 
 ## Replit containing all deployed code
 
-Week 0:
+Week 0: https://replit.com/@ryanmgds/challenegs-week-0#Main.java
 
 Week 1:
 
