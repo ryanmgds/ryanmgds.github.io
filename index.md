@@ -13,6 +13,8 @@ private final Map OPERATORS = new HashMap<>(); { // Map<"token", precedence> OPE
 
 https://replit.com/@ryanmgds/challenge#Main.java
 
+
+
 # Tech talk notes
 
 ## Week 0
