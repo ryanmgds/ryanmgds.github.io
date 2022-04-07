@@ -1,5 +1,5 @@
 ## Welcome to Ryan's Github Pages
-### Calculator Highlights page
+## Calculator Highlights page
 
 In coding languages, Reverse Polish Notation is used to calculate math expressions by using Stacks and the Shunting-yard algorithm to parse through the inputed data
 
@@ -9,8 +9,8 @@ Operators are stored in a hash map based off of order of operations - which ones
 
 private final Map OPERATORS = new HashMap<>(); { // Map<"token", precedence> OPERATORS.put("*", 3); OPERATORS.put("/", 3); OPERATORS.put("%", 3); OPERATORS.put("+", 4); OPERATORS.put("-", 4); }
 
-### Replit containing all deployed code
 
+## Replit containing all deployed code
 https://replit.com/@ryanmgds/challenge#Main.java
 
 
