@@ -13,7 +13,7 @@ private final Map OPERATORS = new HashMap<>(); { // Map<"token", precedence> OPE
 
 https://replit.com/@ryanmgds/challenge#Main.java
 
-### Tech talk notes
+# Tech talk notes
 
 ## Week 0
 -Notes Data Structures are a method of organizing data - variables, sequences, and databases are all data structures. Data structures and algorithms work well together to create otpimized and efficient code.
