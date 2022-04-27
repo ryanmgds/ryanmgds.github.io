@@ -1,4 +1,20 @@
 ## Welcome to Ryan's Github Pages
+
+## Unit 6 video notes
+- hard coding is difficult for adapting projects
+- Programs can make classes through print statements
+- using random makes it hard to debug
+- classes show behaviors and states of code
+- 
+## Unit 5 video notes
+-classes used to organize data and group them, main way to keep them organized so they aren't scattered
+-
+
+
+
+
+
+
 ## Calculator Highlights page
 
 In coding languages, Reverse Polish Notation is used to calculate math expressions by using Stacks and the Shunting-yard algorithm to parse through the inputed data
