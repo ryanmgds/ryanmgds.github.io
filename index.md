@@ -6,6 +6,13 @@
 MCQ Result: 
 <img width="1374" alt="Screen Shot 2022-04-26 at 10 11 04 AM" src="https://user-images.githubusercontent.com/72889620/166304763-e148faa5-283d-48be-833a-637b2c3e4d8d.png">
 
+Link to corrections:
+
+
+FRQ Result:
+
+Link to repl:
+
 
 # Study Week 1
 
