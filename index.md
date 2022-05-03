@@ -6,12 +6,12 @@
 MCQ Result: 
 <img width="1374" alt="Screen Shot 2022-04-26 at 10 11 04 AM" src="https://user-images.githubusercontent.com/72889620/166304763-e148faa5-283d-48be-833a-637b2c3e4d8d.png">
 
-Link to corrections:
+Link to corrections: https://docs.google.com/document/d/1l5BaBwvggB0XlxHto2437yTFrKE1pv5S2DNOvpaOKg0/edit?usp=sharing 
 
 
-FRQ Result:
+FRQ Result: (didn't take because not taking AP exam)
 
-Link to repl:
+
 
 
 # Study Week 1
