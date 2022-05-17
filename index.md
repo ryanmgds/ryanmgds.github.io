@@ -1,5 +1,54 @@
 ## Welcome to Ryan's Github Pages
 
+# WEEK 1 NOTES
+
+Machine learning
+K-nearest neighbors algorithm (when trying to decide the likeness of something relating to past choices and history)
+MOre the data, the better the model, the higher the accuracy
+Supervised learning: uses labeled data to train the model
+Unsupervised learning: uses unlabeled data to train the model
+Reinforcement learning: learns from negative feedback to not make the same mistakes again
+Machine learning model: input to model to output, if its right we take it as final result, if not we give feedback
+Machine learning is used in healthcare, sentiment analysis (social media), fraud detection, and predicting customer choices in e commerce
+Search pricing model: predicts price of something based on availability, time spent, distance, etc, used by companies like uber
+
+Neural network
+Neural networks are inspired by the brain
+Neuron -> thing that holds a number between 0 and 1
+Layers make it so things can be processed
+Activation is the measure of something
+Weights tell the pattern, and bias tells how high the weighted sum needs to be
+Learning is getting the computer to find a valid setting for all these numbers to solve the problem that is presented
+
+Think of each neuron as a function that takes in the output of all the previous neurons in the previous layer and spits it out as one
+
+Gradient descent
+Gradient descent: underlies how neural networks work but also all machine learning networks
+Training data: data that comes from testing through the functions, it is random
+Each neuron is connected to every other neuron
+Cost function: a way of training the computer
+You need to be able to change the computer how it should change its incorrections
+Through network learning we are just minimizing the cost of a function
+Gradient descent: repeatedly nudging an input of a function by some multiple of the negative gradient, helps converge towards some local minimum of a cost function
+Relative magnitudes tell us which change matters more for our data, another way of thinking about direction
+Extra help: http://neuralnetworksanddeeplearning.com/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Study Week 2
 
