@@ -18,7 +18,7 @@ Neural network
 - Activation is the measure of something
 - Weights tell the pattern, and bias tells how high the weighted sum needs to be
 - Learning is getting the computer to find a valid setting for all these numbers to solve the problem that is presented
-- 
+- <img width="554" alt="Screen Shot 2022-05-16 at 8 55 34 AM" src="https://user-images.githubusercontent.com/72889620/169342797-31e99124-6220-4855-96b6-90ae02d58471.png">
 - Think of each neuron as a function that takes in the output of all the previous neurons in the previous layer and spits it out as one
 
 Gradient descent
